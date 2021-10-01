@@ -8,4 +8,6 @@ Takozvani Gang of Four (GoF) obrasci, koji će ovdje biti opisani, predstavljaju
 # Klasifikacija:  
 - Kreacioni obrazac - obrazac koji je fokusiran na kreiranje objekata
 - Strukturni obrazac - obrazac koji je fokusiran na strukturu
-- Obrazac ponašanja - obrazac koji je fokusiran na kolaboraciju objekata
+- Obrazac ponašanja - obrazac koji je fokusiran na kolaboraciju objekata  
+
+![Screenshot](ProjektniObrasci.png)
