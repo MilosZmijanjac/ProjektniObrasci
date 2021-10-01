@@ -16,12 +16,16 @@ Proxy
 Remote proxy
 - proxy objekat lokalno reprezentuje objekat koji se nalazi u drugom adresnom prostoru
 - dobar ako se informacije ne mijenjaju često
+
 Virtual proxy
 - realni objekat je „preskup” da bi se instancirao ili download-ovao
 - dobar ako se realnom objektu ne pristupa često
+
 Protection proxy
 - štiti realan objekat od neovlaštenog pristupa  
 
-![Screenshot](PrimjerVirtuelni.png) 
-![Screenshot](PrimjerRemote.png) 
+![Screenshot](PrimjerVirtuelni.png)   
+
+![Screenshot](PrimjerRemote.png)   
+
 ![Screenshot](PrimjerProtection.png) 
