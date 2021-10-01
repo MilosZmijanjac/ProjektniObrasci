@@ -23,3 +23,6 @@ Formira složenu hijerarhijsku strukturu proizvoljne širine i dubine i omoguća
  - manipuliše objektiima iz kompozicije kroz interfejs klase Component  
    
    ![Screenshot](CompositeSeqDiagram.png)  
+   
+   # Primjer
+   ![Screenshot](Primjer.png)
