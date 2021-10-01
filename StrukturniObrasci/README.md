@@ -1,1 +1,1 @@
-!Screenshot(StrukturniObrasci.png)
+![Screenshot](StrukturniObrasci.png)
