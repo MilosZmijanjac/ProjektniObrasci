@@ -20,4 +20,6 @@ Formira složenu hijerarhijsku strukturu proizvoljne širine i dubine i omoguća
  - implementira operacije za podelemente iz interfejsa klase Component
   
  Client
- - manipuliše objektiima iz kompozicije kroz interfejs klase Component
+ - manipuliše objektiima iz kompozicije kroz interfejs klase Component  
+   
+   ![Screenshot](CompositeSeqDiagram.png)  
