@@ -17,5 +17,6 @@ Koristi princip deljenja resursa(sharing) da bi obezbedio efikasniju podršku ve
  
   Client 
 - čuve reference na flyweight objekte
-- proračunava i čuva podatke o neodređeni
+- proračunava i čuva podatke o neodređeni  
+
 ![Screenshot](FlyweightSeqDiagram.png)
