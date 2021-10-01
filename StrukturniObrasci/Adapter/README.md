@@ -21,3 +21,7 @@ Obezbjeđuje interfejs između različitih klasa i prilagođava interfejs jedne 
   - reprezentuje postojeći interfejs koji treba da se prilagodi  
   
   ![Screenshot](AdapterSeqDiagram.png)  
+  
+  # Primjer
+  ![Screenshot](Primjer.png)  
+  
